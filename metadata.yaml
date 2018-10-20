@@ -38,5 +38,6 @@ series_note: English Men Of Letters
 subjects:
 - !lcsh 'Bacon, Francis, 1561-1626'
 - !lcc 'PR'
+- GITenberg
 title: Bacon
 url: http://www.gutenberg.org/ebooks/13888
